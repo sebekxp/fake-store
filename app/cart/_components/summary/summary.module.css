@@ -1,0 +1,32 @@
+.summaryCol {
+  position: sticky;
+  top: 5rem;
+}
+
+.summaryContent {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+.summaryRow {
+  display: flex;
+  justify-content: space-between;
+}
+.summaryTotalRow {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 1.15rem;
+  margin-top: 1rem;
+}
+.summaryTotal {
+  color: #059669;
+}
+.checkoutBtn {
+  margin-top: 1rem;
+}
+.summaryTitle {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+}

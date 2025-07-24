@@ -1,0 +1,14 @@
+.emptyBox {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+  gap: 0.5rem;
+}
+.emptyIcon {
+  font-size: 5rem;
+}
+
+.emptyText {
+  margin-bottom: 1rem;
+}

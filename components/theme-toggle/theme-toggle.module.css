@@ -1,0 +1,9 @@
+.toggleIcon {
+  width: 18px;
+  height: 18px;
+  transition: transform 0.3s ease;
+}
+
+.themeToggle:hover .toggleIcon {
+  transform: rotate(180deg);
+}
